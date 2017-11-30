@@ -1,0 +1,34 @@
+Q:
+Can it fly?
+Q:
+Is it an animal?
+Q:
+Can it swim?
+A:
+seagull
+A:
+magpie
+A:
+airplane
+Q:
+Is it living?
+Q:
+Does it have wings?
+A:
+ostrich
+A:
+dog
+Q:
+Is it a plant?
+A:
+tree
+Q:
+Can I use it to write?
+Q:
+Is it erasable?
+A:
+pencil
+A:
+pen
+A:
+desk

@@ -1,0 +1,42 @@
+Q:
+Is it an animal?
+Q:
+Can it fly?
+Q:
+is it big?
+A:
+dragon
+A:
+bird
+Q:
+Does it have a tail?
+A:
+mouse
+A:
+spider
+Q:
+Does it have wheels?
+Q:
+Does it get stuck in traffic?
+Q:
+can it carry many people?
+A:
+bus
+A:
+car
+A:
+bicycle
+Q:
+Is it nice?
+Q:
+is it your relatives?
+A:
+sister
+A:
+TA
+Q:
+Does him/her manage a school?
+A:
+headmaster
+A:
+teacher

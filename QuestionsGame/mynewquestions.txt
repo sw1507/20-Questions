@@ -1,0 +1,10 @@
+Q:
+is it a transportation?
+A:
+car
+Q:
+Does it swim?
+A:
+dog
+A:
+cat
